@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "旅遊景點規劃", "旅遊景點規劃.csproj", "{23476667-A2E0-4912-8FE6-972497CAA98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapAPI", "..\GoogleMapAPI\GoogleMapAPI.csproj", "{75A0BEF5-BE20-426D-A58D-5899440F8E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMaps", "..\GoogleMaps\GoogleMaps.csproj", "{C25569D4-4E73-4C84-9B47-D5D13A6E0B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeWord", "..\AsposeWord\AsposeWord.csproj", "{597ADFC8-F599-4242-B174-5BD855C13C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23476667-A2E0-4912-8FE6-972497CAA98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23476667-A2E0-4912-8FE6-972497CAA98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23476667-A2E0-4912-8FE6-972497CAA98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23476667-A2E0-4912-8FE6-972497CAA98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A0BEF5-BE20-426D-A58D-5899440F8E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A0BEF5-BE20-426D-A58D-5899440F8E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A0BEF5-BE20-426D-A58D-5899440F8E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A0BEF5-BE20-426D-A58D-5899440F8E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25569D4-4E73-4C84-9B47-D5D13A6E0B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25569D4-4E73-4C84-9B47-D5D13A6E0B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25569D4-4E73-4C84-9B47-D5D13A6E0B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25569D4-4E73-4C84-9B47-D5D13A6E0B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597ADFC8-F599-4242-B174-5BD855C13C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597ADFC8-F599-4242-B174-5BD855C13C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597ADFC8-F599-4242-B174-5BD855C13C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597ADFC8-F599-4242-B174-5BD855C13C88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE8B4EC0-D812-4677-A9B9-9C7173D3F29A}
+	EndGlobalSection
+EndGlobal
